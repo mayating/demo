@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "myt.hello",
+      "type": "com.myt.springboot.starter.HelloProperties",
+      "sourceType": "com.myt.springboot.starter.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "myt.hello.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.myt.springboot.starter.HelloProperties"
+    },
+    {
+      "name": "myt.hello.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.myt.springboot.starter.HelloProperties"
+    }
+  ],
+  "hints": []
+}

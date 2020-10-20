@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1de56d46-1158-46d2-9edf-0dfd042d649b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/environment/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j7Ys2ePYBWTnTCpVBYoIOyLJYN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoStarterApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myt.demo.DemoStarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuangSpringBootStarterAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myt-spring-boot-starter-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myt.springboot.starter.KuangSpringBootStarterAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de56d46-1158-46d2-9edf-0dfd042d649b" name="Default Changelist" comment="" />
+      <created>1603156805685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603156805685</updated>
+      <workItem from="1603156815408" duration="1982000" />
+      <workItem from="1603201707320" duration="1154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="341" key="#Project_Structure" timestamp="1603156833746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="341" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1603156833746" />
+    <state x="751" y="361" key="FileChooserDialogImpl" timestamp="1603196019857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="361" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603196019857" />
+    <state width="1877" height="418" key="GridCell.Tab.0.bottom" timestamp="1603202475195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603202475195" />
+    <state width="1877" height="418" key="GridCell.Tab.0.center" timestamp="1603202475195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="418" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603202475195" />
+    <state width="1877" height="418" key="GridCell.Tab.0.left" timestamp="1603202475195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="418" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603202475195" />
+    <state width="1877" height="418" key="GridCell.Tab.0.right" timestamp="1603202475195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="418" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603202475195" />
+    <state x="454" y="195" key="SettingsEditor" timestamp="1603202556271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="454" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603202556271" />
+    <state x="652" y="507" key="com.intellij.ide.util.TipDialog" timestamp="1603201710498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="507" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603201710498" />
+    <state x="489" y="272" key="new project wizard" timestamp="1603202551967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="272" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603202551967" />
+  </component>
+</project>

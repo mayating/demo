@@ -1,0 +1,5 @@
+com\myt\springboot\starter\HelloService.class
+com\myt\springboot\starter\HelloProperties.class
+com\myt\springboot\starter\KuangSpringBootStarterAutoconfigureApplication.class
+com\myt\springboot\starter\HelloServiceAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
